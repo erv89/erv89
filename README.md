@@ -17,7 +17,17 @@
 - <img align="left" alt="DevOps" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" /> Azure DevOps
 - <img align="left" alt="VS Code" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> VS Code
 - <img align="left" alt="Python" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> Python -->
-<div style="column-count: 2; column-gap: 20px;">
+<style>
+  .multi-column-list {
+    column-count: 2; /* Adjust the number as needed */
+    column-gap: 20px;
+  }
+  .multi-column-list li {
+    break-inside: avoid-column;
+  }
+</style>
+
+<div class="multi-column-list">
   <ul>
     <li><img alt="Terraform" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> Terraform</li>
     <li><img alt="Bicep" width="22px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/visualstudiobicep/0.28.1.47646/1717548761618/Microsoft.VisualStudio.Services.Icons.Default" /> Bicep</li>
