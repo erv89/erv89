@@ -24,6 +24,7 @@
         <li><img alt="Terraform" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> Terraform</li>
         <li><img alt="Bicep" width="22px" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/visualstudiobicep/0.28.1.47646/1717548761618/Microsoft.VisualStudio.Services.Icons.Default" /> Bicep</li>
         <li><img alt="PowerShell" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /> PowerShell</li>
+        <li><img alt="Git" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> Git</li>
       </ul>
     </td>
     <td valign="top">
