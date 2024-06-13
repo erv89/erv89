@@ -46,5 +46,5 @@ Feel free to explore my repositories and projects. If you have any questions or 
 Happy coding! 🚀
 
 
-### Link
+### Links:
 :link: https://www.rodvit.com
