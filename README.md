@@ -6,11 +6,15 @@
 
 ### Here are some of Cloud providers I work with:
 
-- <img align="left" alt="Azure" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> AWS 
+- <img align="left" alt="AWS" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> AWS 
 - <img align="left" alt="Azure" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> Azure
-- <img align="left" alt="Azure" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> Google Cloud Platform
+- <img align="left" alt="GCP" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" /> Google Cloud Platform
 
-## Some of the tools that I sue:
+### Some of the tools that I use:
+- <img align="left" alt="Terraform" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /> Terraform
+- <img align="left" alt="Bicep" width="22px" style="padding-right:10px;" src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/visualstudiobicep/0.28.1.47646/1717548761618/Microsoft.VisualStudio.Services.Icons.Default" /> Bicep
+- <img align="left" alt="PowerShell" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /> PowerShell
+
 
 
 Feel free to explore my repositories and projects. If you have any questions or would like to collaborate, feel free to reach out to me. Let's build amazing things together!
