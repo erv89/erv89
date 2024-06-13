@@ -25,6 +25,7 @@
     <li><img alt="DevOps" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" /> Azure DevOps</li>
     <li><img alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> VS Code</li>
     <li><img alt="Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> Python</li>
+    <br />
   </ul>
 </div>
 
